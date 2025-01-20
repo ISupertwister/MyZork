@@ -22,6 +22,7 @@ Wisdom(If the development process had gone as planned, this stadium would have b
 I even designed an event that we would hold using wisdom:
 
 As you kept walking, you saw a portrait hanging on the wall. You observe a mighty warrior in the portrait. A few words written beneath the portrait have caught your attention. Would you want to examine closer? (Yes or No) (Need 6 wisdom.)
+
 Yes (if wisdom is enough): A warrior, depicted as if made of sheer light, painted in a pose battling fiends. You start reading the note beneath the portrait.
 
 “The greatest knight of all time, Sir Lionel Messi, defies the forces of corruption, and with his own light, he battles the encroaching darkness.”
@@ -30,6 +31,7 @@ The portrait has been damaged and torn by the trails of claws. Probably the thin
 Yes(if wisdom is not enough): ): A warrior, depicted as if made of sheer light, painted in a pose battling fiends. You tried reading the note beneath the portrait, but you fail to do so as you don’t know the language it’s written.
 
 The portrait has been damaged and torn by the trails of claws. Probably the thing they like the most is not this portrait here. 
+
 No: You decide to ignore the portrait and proceed.
 
 Player commands:
